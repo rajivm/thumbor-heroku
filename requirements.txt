@@ -1,11 +1,13 @@
--e git+https://github.com/Xowap/Pillow.git@08d78b4700649f1b8ab5c15a4ca003d160a72fd1#egg=Pillow-2.1.1
-derpconf==0.4.9
+Pillow==2.3.2
+backports.ssl-match-hostname==3.4.0.2
+derpconf==0.7.2
 numpy==1.8.0
 pycrypto==2.6.1
-pycurl==7.19.3
+pycurl==7.19.5
 python-magic==0.4.6
 redis==2.9.0
-six==1.5.2
-thumbor==3.15.0
-tornado==3.1.1
+six==1.8.0
+thumbor==4.5.3
+thumbor-pexif==0.14.1
+tornado==3.2.2
 wsgiref==0.1.2
